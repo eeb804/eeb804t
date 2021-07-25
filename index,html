@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>los modelos de guitarras mas famosos del mundo</title>
+    </head>
+    <style> 
+    h1 {
+            color: midnightblue;
+            font-size: 3em;}  
+
+        
+        #los-modelos-de-guitarra-mas-famosos-del-mundo {
+            background-color: white; text-align: center;}
+
+        
+        #comparacion-emocionante { 
+            font-weight: bold;}
+
+
+        p {
+            color: darkslategray; 
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-color: wheat;
+            font-size: large;
+            text-align: justify;}
+        
+
+        h2 {
+            color:lightgrey;
+            background-color: darkred;
+            font-size: 2em;}  
+
+
+        h3 { color: chocolate;
+        background-color:darkgray;
+        font-size: 1.5em; clear: both;}
+        
+
+
+        ul {  
+             color: darkslategray;
+             border: 1px solid darkslategray;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+        
+    
+        
+    body {  
+            
+            background-color: powderblue;
+            font-size: medium;
+            margin: 45px;} 
+        
+        
+        td {  
+             color:darkslategray;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+        
+        
+    table{
+       
+        border: 5px solid darkred; width: 100%; height: 100px; overflow: auto; text-align: center; }
+
+
+    th, td {
+        width: 25%;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;}
+
+
+    caption {
+   padding: 0.3em;
+   color: #fff;
+    background: #000;}
+
+
+th {
+   background: #eee;}
+
+
+.listas-guiones-guitarras {
+    background-color: lightgrey;}
+
+
+.para-cada-gusto-hay-una-guitarra {
+     color: darkred}
+
+
+    #tabla-comparativa-FGI {
+        background-color: whitesmoke; width: 90%; height: 380px; overflow: auto; border: 5px dotted darkred; text-align: center;
+        margin: 0px 50px 0px 50px; padding: 5px; }
+
+
+ .imagenes-guitarras-centro { text-align: center; margin: 0px 590px 0px 390px; border: 3px dashed midnightblue;
+ }  
+
+
+ #imagen-inicial-guitarras{ margin: 0px 380px 0px 245px; border: 7px solid darkred;
+
+ }  
+
+
+ .titulos-guitarras-centro{ text-align: center; clear: both;}   
+
+
+#contenedor{
+    border: 2px solid darkred; border-top: 40px solid darkred; padding: 8px;
+}
+
+.links-centrados{ 
+    margin: 0px 50px 0px 430px; background-color: lightsteelblue;
+}
+
+.videos-centrar{ margin: 0px 80px 0px 350px; border: 3px solid darkred; }
+
+#gifer-text { text-align: center;}
+
+
+#imagen-principal-pastillas{ border: 2px solid darkred; height: 312px; margin-right: 3px; height: 300px; width: 600px;  margin: 0px 55px 0px 300px;
+}
+
+
+
+#pastilla-single-coilSH{
+    float: right; border: 2px solid darkred; height: 282px; margin-left: 3px;
+}
+
+
+#pastilla-humbuckerSH{
+    float: left; border: 2px solid darkred; height: 282px; margin-right: 3px;
+}
+
+
+#prueba-img-centrar { text-align: center; background-color: transparent;
+
+}
+
+.links-comparacion { background-color: red; }
+
+.hhtitulo-font { font-family: fantasy; background-color:peru; color: darkred;}
+ 
+h2.hhtitulo-font{ border-color: 5px mediumturquoise; color:gold; background-color: darkred; }
+
+p span.fondo-gustos{ background-color: white;}
+a:hover {background-color: teal;}
+a:active{ background-color: lightsteelblue;}
+a:focus{ background-color: dimgray;}
+
+    </style>
+
+
+    <body>
+
+        <div id="contenedor">
+
+<h1 id="los-modelos-de-guitarra-mas-famosos-del-mundo">los modelos de guitarras mas famosos del mundo</h1>
+<img id="imagen-inicial-guitarras" src="https://i1.wp.com/100lecciones.org/wp-content/uploads/tipos-de-guitarra-el%C3%A9ctrica.jpg?resize=572%2C460&ssl=1" alt="imagen de varios modelos de guitarras desde el modelo les paul redondeado hasta el modelo puntiagudo de las superstratocaster" width="700">
+<p>A lo largo de los años desde su invencion en el año 1920 por Lloyd Loard en los Estados Unidos la guitarra electrica ha ido evolucionando hasta la era actual, dividiendose en distintos modelos que a su vez tienen distintas ventajas y desventajas frente a otros modelos. Por lo general la gente cuando va a comprar su primera guitarra se fija en lo estetico, por eso ahora te mostraremos los distintos modelos de guitarras electricas para que sepas cual escoger.
+</p>
+<h2 class="titulos-guitarras-centro">Stratocaster</h2>
+<img class="imagenes-guitarras-centro" src="https://thehardbaroquer.com/wp-content/uploads/2020/11/Fender-Player-Stratocaster-1-1024x576.jpg" alt="imagen de fender stratocaster player" width="450">
+<p>este modelo de guitarra electrica denominado como stratocaster fue inventado en 1952 y lanzado en 1954 por Leo Fender en su compañia Fender este modelo desde su inicio tuvo pastillas simples o denominadas en ingles como "single coil" estas guitarras tienen lo que se conoce como una escala de 24 trastes lo que hace que el templado de las cuerdas sea mayor al de algunos modelos como la les paul que veremos mas adelante, las stratocaster son probablemente el modelo mas conocido entre las guitarras electricas siendo el mas copiados de todos </p>
+<h3> datos de la stratocaster</h3>
+<ul class="listas-guiones-guitarras"> <li>fue lanzada en 1954 siendo la evolucion de la telecaster</li>
+    <li> su mayor innovacion fue la incorporacion de la palanca de tremolo o vibrato </li>
+    <li>la stratocaster es el modelo mas copiado ya que su sonido hace que sea buscada en demasiados generos musicales</li>
+    <li>la stratocaster fue impulsada por grandes musicos como Jimi Hendrix con su stratocaster blanca, Eric Clapton con su stratocaster negra "Blackie" y Stevie Ray Vaughan con "Lenny"</li>
+</ul>
+<a class= "links-centrados" target= "_blank" href= "https://soundsmarket.com/blog/fender-stratocaster/">leer mas sobre el modelo stratocaster (click aqui)</a>
+<h2 class="titulos-guitarras-centro">Les Paul</h2>
+<img class="imagenes-guitarras-centro" src= "https://musicalcedar.com/wp-content/uploads/2020/07/Les-Paul-Gold-2020.jpg" alt= "imagen guitarra Gibson les paul" width= "450">
+<p>las guitarras tipo les paul son guitarras conocidas por su diseño muy llamativo y por su construccion en caoba, madera que es especial por su sustain, es decir, la cantidad de tiempo que sostiene una nota musical, las guitarras tipo les paul fueron inventadas y lanzadas por la compañia Gibson que diseño este modelo para el guitarrista famoso y conocido Les Paul, de la construccion de la guitarra tambien podmos destacar su escala de 22 trastes la cual hace que las cuerdas tengan menos tension y por ende sea mas facil aplicar tecnicas como los bendings y cambiar de afinacion facilmente, esto definitivamente llama mucho la atencion entre gente que ama el rock pesado o metal ya que por lo general en generos parecidos al metal se usan afinaciones bajas o se necesita cambiar mucho las afinaciones, mientras que el modelo stratocaster es mas versatil</p>
+<h3>datos de la Les Paul</h3>
+<ul class="listas-guiones-guitarras">
+    <li>esta guitarra es considerada como parte escencial de la musica rock, pues sin ella canciones como las de Gun's n Roses no seran lo mismo</li>
+    <li>hablando de los Gun's n Roses debemos mencionar a su guitarrista Slash el cual es la principal cara y estrella de la marca Gibson gracias a su gran reconocimiento</li>
+    <li>las Les Paul no siempre llevaron pastillas de bobinas dobles, pues en un principio llevaban pastillas de bobina simple hasta que en 1954 se implementaron pastillas dobles a los modelos Les Paul lo que suprimia el ruido que generaban las pastillas simples</li>
+    <li>el proyecto de esta guitarra se presento en 1946 sin embargo la empresa rechazo la propuesta de Les Paul hasta que en 1952 Gibson se intereso en el modelo al ver que Fender con su stratocaster era lidern en ventas y ganaba mucha fama</li>
+</ul>
+<a class= "links-centrados" target= "_blank" href= "https://musicapod.com/gibson-les-paul/">leer mas sobre el modelo Les Paul (click aqui)</a>
+<h2 class="titulos-guitarras-centro">super-stratocaster</h2>
+<img class="imagenes-guitarras-centro" src= "https://1.bp.blogspot.com/-DTmJHmL1gko/V9BBVFIkBuI/AAAAAAAAGxs/knYv-bt2KnIDDn1GG45LAcs79rGFE9f_gCLcB/s1600/superstratocaster_stratocaster.jpg" alt= "imagen de una comparacion entre el modelo stratocaster y super stratocaster" width= "450">
+<p>las guitarras super stratocaster se caracterizan por ser unas guitarras mas agresivas pero claramente inspiradas en las stratocaster, por lo general tienen un diseño de cuernos pronunciados con punta, una de sus caracteristicas principales es su sistema floyd rose el cual es un puente flotante con sistema de bloqueo, por lo que se pueden llegar a tonos muy altos con su palanca. Esta guitarra no es recomendable para cambios de afinacion debido a que su sistema de bloqueo se deberia de modificar completamente cuando se quiera cambiar de afinacion, pero por ende es muy buena guitarra la cual mantiene muy bien la afinacion y cualquier desafinacion de regula con los micro afinadores de su puente, estas guitarras son famosas en el genero del metal, pues su diseño y contruccion hace que sea caracteristica de este genero.</p>
+<h3>datos de las super-stratocaster</h3>
+<ul class="listas-guiones-guitarras">
+    <li>existe un debate de si es una evolucion o una variante del modelo stratocaster</li>
+    <li>es el modelo favorito para muchos virtuosos de la guitarra electrica como Steve Vai y John Frusciante</li>
+    <li>la marca mas conocida de guitarras superstrat es Ibanez</li>
+    <li>durante su auge llego a hacerle competencia a otros modelos como la stratocaster y la Les Paul, principalmente en los 80-90s.2000s ya que en esas decadas nacio la era del floyd rose</li>
+    <li>los inicios de las superstrat se dio con la moda de modificar guitarras stratocaster, entre ellas la mas conocida las frankstrat de Eddie Van Halen</li>
+</ul>
+<a class= "links-centrados" target= "_blank" href= "https://www.tiposdeguitarra.com/electricas/superstrat/"> leer mas sobre el modelo superstrat (click aqui)</a>
+<p>obviamente existen muchos modelos de guitarras acompañados de otras marcas que llegaron despues, sin embargo podriamos considerar a las anteriores guitarras como los tres pilares principales sobre los cuales los principiantes se fijan para su primera guitarra, para eso hacemos este sitio, para que sepas cual lleva mas tu estilo, a continuacion te mostraremos una tabla comparativa sobre estos tres modelos "principales" dentro del mundo de guitarras.</p>
+<div id="tabla-comparativa-FGI">
+<table>
+<thead> 
+    <tr>
+        <th>MODELO</th>
+        <th>CARACTERISTICAS</th>
+        <th>DISEÑO</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>STRATOCASTER</td>
+        <td><ul><li>hechas en madera de Aliso o Fresno en el cuerpo y Arce o Palisandro en el diapason</li>
+            <li>en su modelo base lleva pastillas simples, en este caso 3 una en el puente, una en la parte del mastil y otra en el centro, dandonos una posibilidad de seleccionar 5 posiciones diferentes</li>
+            <li>lleva dos potenciometros de tono y uno de volumen, lo que nos da libertad al experimentar</li>
+            <li>>es versatil, en el sentido de que sus limpios son muy buenos, por lo que es famosa en generos que no lleven distorsion o sean pesados, sin embargo esto no quiere decir que no sea buena o no se pueda, pues de hacheo hay quitarristas de metal que han usado esta guitarra</li>
+            <li>Palanca de tremolo o puente semi-flotante de segueta, esta fue uno de los avances mas importantes dando tonos unicos que hacian que los guitarristas sintieran mas expresion, todo esto respecto al modelo anterior la Telecaster</li>
+            <li>>guitarra comoda y liviana, no por nada es considerada por muchos como el mejor modelo de guitarra de la historia debido a sus cortes y facilidades a la hora de tocar por su diseño.</li></td>
+        <td>la construccion de la stratocaster es con cuernos redondeados, cuerpo semi-delgado o delgado en comparasion a algunas otras guitarras, una escala de 24 trastes, es decir que tiene 24 trastes y tiene el brazo mas largo que por ejemplo una Les Paul, cosa que hace que a la vez tambien tenga mas tension en las cuerdas, su construccion es considerada la base de las guitarras, pues sus curvas se adaptan perfectamente al cuerpo haciendo que tocar ese instrumento sea todo un placer ademas de que si te gusta experimentar con la palanca de tremolo sin desafinarte mucho la stratocaster es una gran opcion por su construccion y demas cosas.</td>
+    </tr>
+
+    <tr>
+        <td>LES PAUL</td>
+        <td><ul><li>tiene mucho "sustain" lo que significa que cuando toques una cuerda esa cuerda quedara sonando por mas tiempo que otras guitarras de otros modelos</li>
+           <li>construida en madera Caoba para el cuerpo, palisandro en el brazo y tapa de Arce para darle mas brillo y claridad</li>
+            <li>tiene un puente fijo, lo cual es una ventaja a la hora de hacerle mantenimiento y cambiar la afinacion de la guitarra sin que sufra un problema de calibracion</li>
+            <li>monta dos pastillas dobles manejadas con un selector de tres posiciones lo que hace que se disminuya el ruido de las pastillas simples P90 que tenia antes</li>
+            <li>tiene 2 volumenes y 2 tonos cada uno independiente para una pastilla</li></ul></td>
+        <td>la construccion de la Les Paul es en Caoba con Arce y palisandro, todo unido con pegamento para mejorar el sustain, a diferencia de la stratocaster que es atornillada, la Les Paul no tiene dos cuernos sino solo uno, lo que hace que en cierta manera se tenga que tocas de forma distinta a la de una stratocaster debido a que al no tener dos cortes de lado y lado tienes que mover el pulgar hacia abajo para poder tocar las notas de los trastes mas agudos, pero en general es una guitarra comoda debido a su escala de 22 trastes por lo que es mas corto de brazo y tiene mesnos tension lo que hace que estirar las cuerdas sea mas facil y con menos fuerza, por lo que para un principiante viene perfecto no tener que forzar tanto la mano, eso si su contra es que debido a su contruccion se desafina mas que una stratocaster</td>
+    </tr>
+    <td>SUPER STRAT</td>
+        <td><ul><li>tiene el puente flotante Floyd Rose, esta caracteristica puede ser una ventaja o una desventaja, debido a que es muy dificil de calibrar y por ende necesitaras de un profesional para poder calibrarla, pero por otro lado esta guitarra calibrada nunca se desafina, pues el sistema de bloqueo qe tiene es espectacular.</li>
+            <li>contiene muchas caracteristicas agregadas, cada una distinta en los modelos dentro de ls superstrat, ya que unas estan enfocadas a un genero y otras a otro</li>
+            <li>en algunos modelos se da que tienen mas trastes llegando incluso algunas hasta 27, 32, etc. todo esto buscando la satisfaccion de los musicos guitarristas</li>
+            <li>mas cuerdas, en algunas superstrat suelen haber mas cuerdas como 7, todo esto para obtener mejores graves y complacer a los guitarristas de generos pesados como el metal</li>
+            <li>comoda para rapidez, es mas rapida debido a su mastil delgado y construccion similar a la stratocaster y cuerdas bajas</li></td>
+        <td>esta guitarra esta construida en madera de Tilo que es todo terreno y se adapta a todo tipo de modelo. el barzo puede variar ya que como mencionamos anteriormente las superstrat vienen para todos los gustos, tienen doble corte como la strato pero con un diseño mas agresivo y punteagudo, sin embargo conserva la comodidad y es mas rapida.</td>
+</tbody>
+
+</table>
+</div>
+
+<h3>¡Una Comparacion Emocionante!</h3>
+
+
+<iframe class="videos-centrar" src="https://gifer.com/embed/Zbyo" width=480 height=372.245 frameBorder="0" allowFullScreen></iframe> <p id="gifer-text"><a href="https://gifer.com">via GIFER</a></p>
+
+<p id="comparacion-emocionante">asi es como dije anteriormente <span class="para-cada-gusto-hay-una-guitarra fondo-gustos"> para cada gusto hay una guitarra</span>, seria interesante que veas y prestes atencion tanto al sonido como al aspecto de las tres guitarras en un video, asi que te dejo un video de un solo de guitarra tocado en cada una de estas guitarras, el solo es de Don't cry y fue grabado con una Gibson Les Paul, te recomiendo escuchar la cancion con el solo original y despues ver el video de las tres guitarras enfrentandose en ese solo:</p>
+
+<a class= "links-centrados  links-comparacion" target="_blank" href= "https://youtu.be/zRIbf6JqkNc">video cancion Don't cry - Guns n Roses (click aqui)</a><br>
+
+
+<a class= "links-centrados  links-comparacion" target="_blank" href= "https://www.youtube.com/watch?v=2lpZZXNOkTc">video comparativo de los tres modelos de guitarra (click aqui)</a>
+
+<h2>tipos de pastillas o pickups</h2>
+<div>
+</div>
+<h3 class="hhtitulo-font">¿que son las pastillas?</h3>
+<img id="imagen-principal-pastillas"  src="https://multisononline.com/img/blogimages/Pastillas.jpg" alt="imagen comparacion pastillas single coil y pastillas humbucker">
+<p>hemos hablado de los tipos de guitarras que existen, pero no de su componente principal que son las pastillas, obviamente cada elemento de la guitarra es importante, sin embargo el elemento revolucionario son las pastillas, estas son capsulas son transductores que generalmente se usan en instrumentos de cuerda, estos microfonos o bobinas son capaces de por medio de imanes traducir la vibracion de las cuerdas en sonido y finalmente una nota musical, es decir que en las guitarras electricas las cuerdas metalicas que se encuentran dentro del campo magnetico de los imanes en la bobina al vibrar generaran que la onda de vibracion magnetica se transforme en una señal que finalmente saldria por un amplificador o bobina de sonido, el problema en sus origenes de las pastillas electromagneticas fue el hecho de que geeraban un ruido cuando se le subia el volumen al amplificador, por lo que en 1955 la empresa de Gibson lanza por primera vez sus guitarras Les Paul per en un modelo de bobina doble o como ellos le llamaron humbucker, la cual llegaria a ser tan conocida y se convertiria en el rival eterno de las single coil las cuales en la epoca eran representadas por Fender.</p>
+<h3 class="hhtitulo-font">pastillas single Coil</h3>
+<img id= "pastilla-single-coilSH" src="https://image.jimcdn.com/app/cms/image/transf/none/path/s648ca1345b681984/image/i3af214963e190030/version/1445435890/image.jpg" alt= "imagen pastilla single coil">
+
+<p>las pastillas single coil o tambien conocidas como sencillas debido a su construccion de 6 polos, cuando mencionamos que tiene 6 polos nos referimos a que tiene uno por cada cuerda y en terminos sencillos decimos que cada pastilla contiene 6 imanes encargados de recibir cada vibracion de cada cuerda dentro de su campo magnetico, estas pastillas fueron basicamente el inicio de lo que eran las guitarras electricas ya que antes de ellas las pastillas que habian no eran precisamente claras en las notas musicales, asi que cuando estas pastillas llegaron empezo una revolucion dentro de los instrumentos, el rock y la musica en general, obviamente existian su desventaja y era que a grandes volumenes o distorsionados estas guitarras generaban un sonido parecido al de la estetica, sin embargo si las comparamos con las pastillas humbucker las single coil o simples son mas limpias y agradables al oido en sonidos limpios, para arpegios y ritmos es perfecta, aunque esto no quiere decir que no sea buena para distorsiones porque si lo es, aunque te tendras que aguantar un poco el ruido que hace de vez en cuando, definitivamente pastillas historicas por su sonido que hasta han sido usadas por el mismo Jimi Hendrix.</p>
+<a class= "links-centrados" target="_blank" href= "https://es.wikipedia.org/wiki/Single_coil">leer mas sobre pastillas single coil (click aqui)</a>
+
+
+
+<h3 class="hhtitulo-font">pastillas humbucker</h3>
+<img id="pastilla-humbuckerSH" src="https://http2.mlstatic.com/D_NQ_NP_985671-MLM30702524152_052019-O.jpg" alt= "imagen pastilla humbucker"> 
+<p>las pastillas humbucker o pastillas dobles son un tipo de pastillas que basicamente se compone de dos single-coil unidas, este tipo de pastillas inventadas en 1955 por Gibson tienen una gran razon de ser y es evitar el ruido que hacian las pastillas simples, pues las dos pastillas que componen una humbucker tienen polos distintos, al tener la polaridad distinta el sonido rebota y se cancela el ruido que tenian las pastillas simples, sin embargo esto a la vez hace que el sonido sea mas lleno o con mas cuerpo, en pocas palabras podriamos definir el sonido de las single coil como "delgado" en comparacion a las humbucker, por esta razon para generos musicales pesados o con cierta distorsion se usan mucho las pastillasmdobles, para que a la hora de subier el volumen y distorsionarlo no se genere el ruido de estetica que tienen las single coil, estas pastillas son muy usadas en demasiadas guitarras por su gran capacidad de disminuir el ruido, un ejemplo de la popularidad y preferencia de esta pastilla entre los guitarristas son Slash, Gary Moore y Jimmy Page, guitarrista historicos que con estas guitarras compusieron solos y canciones historicas como stairway to  heaven (Jimmy Page-Led Zeppelin), November Rain (Slash-Gun's n Roses) The Looner (Gary moore), en definitiva unas pastillas que hicieron parte no solo de la preferencia de los musicos sino del rock.</p>
+
+<h2 class="titulos-guitarras-centro hhtitulo-font">Telecaster</h2>
+<img class="imagenes-guitarras-centro" src= "https://guitarrazos.com/wp-content/uploads/2018/11/Fender-Squier-Affinity-Telecaster-860x538.jpg" alt= "imagen de una guitarra telecaster" width= "450">
+<p>la guitara Telecaster fue la primera guitarra lanzada por la compañia de fnder en la seccion electrica, esta guitarra tuvo mucho recibimiento, es una guitarra apta para sonidos limpios y usada para muchos generos como el rock n roll, leo fender seria el encargado de diseñarla y lanzarla en el año 1952, fue una evolucion unica basicamente. </p>
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>
